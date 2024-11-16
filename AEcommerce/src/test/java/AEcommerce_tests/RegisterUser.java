@@ -100,3 +100,4 @@ public class RegisterUser {
 	}
 
 }
+//Register new user
